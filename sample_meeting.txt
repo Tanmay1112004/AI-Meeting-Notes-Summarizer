@@ -1,0 +1,62 @@
+Meeting: Q3 Product Launch Planning
+Date: May 20, 2026
+Duration: 45 minutes
+Attendees: Sarah (Product Manager), Mike (Tech Lead), Priya (Marketing Lead), John (Design Lead)
+
+---
+
+Sarah (Product Manager):
+Let's start. We need to finalize the timeline for our Q3 product launch. The feature set is mostly locked, but we have some decisions to make on the beta testing phase. Priya, what's the marketing team's timeline?
+
+Priya (Marketing Lead):
+We need at least 3 weeks for teaser campaign and another 2 weeks for full launch push. If we want to hit August 15th launch date, we need final assets by July 10th. Also, I recommend we do an early access program for 500 users to build buzz.
+
+Mike (Tech Lead):
+The engineering team can have the build ready for beta by July 1st. But I'm concerned about the API rate limits. We're seeing about 10,000 daily active users during testing, and our current infrastructure might struggle with spikes. We should upgrade our server capacity before launch.
+
+John (Design Lead):
+I have all the UI mockups ready for the new dashboard. The new onboarding flow is 40% faster based on user testing. I can deliver final assets by June 20th. One question - are we doing the dark mode feature in this release or pushing to Q4?
+
+Sarah (Product Manager):
+Let's push dark mode to Q4. We need to focus on stability for this launch. Mike, how much additional server capacity do you need?
+
+Mike (Tech Lead):
+I estimate we need 3 additional servers. That's about $5,000 extra per month. Also, we should do a load test on July 5th. I'll need the QA team to help with that.
+
+Priya (Marketing Lead):
+Can we get the beta build by June 25th so I can coordinate with influencers? I have 5 tech YouTubers lined up for reviews.
+
+Mike (Tech Lead):
+June 25th is tight but doable if we prioritize. We'll push the documentation work to the following week.
+
+Sarah (Product Manager):
+Okay, let's make decisions. Dark mode goes to Q4. We approve the $5,000 for additional servers. Beta build target is June 25th. Load test on July 5th. Launch date confirmed for August 15th.
+
+John (Design Lead):
+What about the mobile app? Are we launching both web and mobile together?
+
+Sarah (Product Manager):
+Yes, both platforms on August 15th. John, make sure mobile designs are aligned with web by June 20th.
+
+Priya (Marketing Lead):
+I'll start the early access waitlist page this week. Can we cap early access at 1000 users instead of 500? The influencers will have more reach.
+
+Sarah (Product Manager):
+Agreed. 1000 early access users it is.
+
+Mike (Tech Lead):
+One more thing - we need to decide on the backup strategy. Daily backups or real-time replication? Real-time adds another $2,000 per month.
+
+Sarah (Product Manager):
+Stick with daily backups for now. We can revisit in Q4. Any other concerns?
+
+Everyone: No.
+
+Sarah (Product Manager):
+Great meeting everyone. Action items:
+- Mike: Upgrade servers and schedule load test for July 5th
+- John: Deliver final assets (web + mobile) by June 20th
+- Priya: Launch early access waitlist page and coordinate with YouTubers
+- Sarah: Confirm final budget for servers and send recap email
+
+Meeting adjourned.
