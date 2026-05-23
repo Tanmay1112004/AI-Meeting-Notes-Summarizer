@@ -96,8 +96,3 @@ AI/ML & Full Stack Developer
 MIT License
 
 ---
-
-If you want, I can also:
-✔ Make it **GitHub profile-ready (pinned project style)**
-✔ Add **badges + screenshots section**
-✔ Or turn it into a **viral README (startup-style)**
