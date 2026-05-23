@@ -1,7 +1,3 @@
-Here’s a **clean, recruiter-ready, shorter and more professional README.md** version of your project:
-
----
-
 # 📝 AI Meeting Notes Summarizer
 
 An AI-powered meeting assistant that automatically converts meeting transcripts into **structured summaries, key decisions, and action items** using **Google Gemini 1.5 Flash**.
