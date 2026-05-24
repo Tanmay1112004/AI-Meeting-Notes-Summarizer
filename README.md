@@ -25,11 +25,10 @@ Built with **Streamlit + Python**, designed for productivity, clarity, and real-
 
 ![demo](https://github.com/Tanmay1112004/AI-Meeting-Notes-Summarizer/blob/main/app_demo_images/Screenshot_21-5-2026_164251_supreme-space-acorn-g49w4jvxwppv39p7v-8501.app.github.dev.jpeg)
 
-![demo]()
+![demo](https://github.com/Tanmay1112004/AI-Meeting-Notes-Summarizer/blob/main/app_demo_images/Screenshot_21-5-2026_164319_supreme-space-acorn-g49w4jvxwppv39p7v-8501.app.github.dev.jpeg)
 
-![demo]()
+![demo](https://github.com/Tanmay1112004/AI-Meeting-Notes-Summarizer/blob/main/app_demo_images/Screenshot_21-5-2026_164338_supreme-space-acorn-g49w4jvxwppv39p7v-8501.app.github.dev.jpeg)
 
-![demo]()
 
 ---
 
